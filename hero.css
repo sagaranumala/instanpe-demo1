@@ -24,7 +24,7 @@ body{
 }
 .header{
     height: 80px;
-    width: 100vw;
+    width: 100%;
     background-color: bisque;
     display: flex;
     align-items: center;
