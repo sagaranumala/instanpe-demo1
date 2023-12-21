@@ -36,6 +36,7 @@ body{
 }
 .hero{
     display: flex;
+    width: 100vw;
     background-color: white;
 }
 .text-content{
@@ -106,6 +107,7 @@ body{
 }
 .hero2{
     height: 1000px;
+    width: 100vw;
     background-color: black;
     display: flex;
     gap:30px
@@ -276,6 +278,7 @@ body{
 }
 .brands{
     display: flex;
+    width: 100vw;
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -298,6 +301,7 @@ body{
 
 .features{
     margin-top: 50px;
+    width: 100vw;
 }
 .dot{
     width: 20px;
@@ -386,6 +390,7 @@ body{
 }
 .refer{
     height: 500px;
+    width: 100vw;
     display: flex;
     overflow: hidden;
     background-color: rgb(80, 80, 227);
@@ -492,6 +497,7 @@ body{
 }
 .xy{
     height: 2500px;
+    width: 100vw;
     background-color: #F5F6FA;
 }
 .box-1-xy{
@@ -736,6 +742,7 @@ box-shadow: -1px 1px 5px 9px rgba(0, 0, 0, 0.183);
 }
 .business{
     height: 1000px;
+    width: 100vw;
     background-color: black;
     padding-top: 1px;
 }
@@ -790,6 +797,7 @@ box-shadow: -1px 1px 5px 9px rgba(0, 0, 0, 0.183);
 }
 .section-5{
     height: 750px;
+    width: 100vw;
     /* background-color: aqua; */
     display: flex;
 }
@@ -916,6 +924,7 @@ position: absolute;
 }
 .sec6-left-box1{
     font-family: sans-serif;
+    color: blue;
     width: 500px;
     font-weight: 900;
     font-size: 50px; 
@@ -930,6 +939,7 @@ position: absolute;
 .section-6{
    display: flex;
    gap:50px;
+   width: 100vw;
    align-items: center;
    background-color: #F5F6FA;
    height: 350px;
