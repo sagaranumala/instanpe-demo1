@@ -22,7 +22,7 @@ body{
 }
 .header{
     height: 80px;
-    width: 100%;
+    width: 100vw;
     background-color: bisque;
     display: flex;
     align-items: center;
@@ -106,7 +106,6 @@ body{
 }
 .hero2{
     height: 1000px;
-    width: 100%;
     background-color: black;
     display: flex;
     gap:30px
